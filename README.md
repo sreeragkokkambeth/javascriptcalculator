@@ -1,2 +1,2 @@
-# javascriptcalculator
-js calc
+# python calculator
+python calc
